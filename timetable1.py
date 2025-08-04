@@ -30,7 +30,6 @@ data = {
 
 # Convert to DataFrame
 timetable_df = pd.DataFrame(data)
-}
 
 # Display timetable
 st.markdown("### 📅 Timetable")
